@@ -41,7 +41,8 @@ print("Number of words={0}".format(num_words))
 ```
 
 ### OUTPUT:
-![](word_count.png)
+![](word_count.png)![word_count](https://user-images.githubusercontent.com/119401150/215272837-6fed0fe1-816b-40a0-869a-7fc4cd5b8d74.png)
+
 
 
 
